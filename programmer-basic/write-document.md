@@ -22,6 +22,6 @@
 
 
 ## 参考资料
-- [Github 是如何用 Github 撰写 Github 文档的](http://segmentfault.com/blog/openwrt/1190000002473246)
+- [Github 是如何用 Github 撰写 Github 文档的](https://segmentfault.com/a/1190000002473246)
 - [markdown + git 最适合程序员的wiki系统](http://examplecode.github.io/tools/2014/09/26/install-gollum-in-mac-109/)
 - [gollum](https://github.com/gollum/gollum): github的文档系统。
